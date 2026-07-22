@@ -1,0 +1,198 @@
+image,ground_truth,prediction,CER_score
+test001_1.jpg,test001_1,B S140 BCD 11-25,1.2222
+test001_2.jpg,test001_2,B 2407 UZ0,0.8889
+test001_3.jpg,test001_3,B 2842 PKM,1.0
+test002_1.jpg,test002_1,BG 1352 AE,0.8889
+test003_1.jpg,test003_1,B 2634 UZF,1.0
+test003_2.jpg,test003_2,B 1995 JVK G1-28,1.3333
+test004_1.jpg,test004_1,890621EH,1.0
+test005_1.jpg,test005_1,DD 2798 KM,1.0
+test006_1.jpg,test006_1,T 1329 KC,0.8889
+test007_1.jpg,test007_1,AD 8865 EE,1.0
+test008_1.jpg,test008_1,DK 1157 AAB,1.0
+test008_2.jpg,test008_2,AA 1997 FE,1.0
+test009_1.jpg,test009_1,H 8518 NA,1.0
+test009_2.jpg,test009_2,K 1649 GB,0.8889
+test010_1.jpg,test010_1,B 9416 PCN,1.0
+test010_2.jpg,test010_2,H 1147 UY,1.0
+test011_1.jpg,test011_1,H 1691 IL,0.8889
+test011_2.jpg,test011_2,B 9374 RI,1.0
+test011_3.jpg,test011_3,D 1204 AIG,0.8889
+test012_1.jpg,test012_1,E1887BA,0.8889
+test013_1.jpg,test013_1,B 1439 UZP,1.0
+test013_2.jpg,test013_2,B 1128 W0S,1.0
+test014_1.jpg,test014_1,B 1388 DFX,1.0
+test015_1.jpg,test015_1,AD 1798 BT,1.0
+test016_1.jpg,test016_1,E 1517 DD,0.7778
+test017_1.jpg,test017_1,AD 8982 FS,1.0
+test018_1.jpg,test018_1,L 7603 UA,0.8889
+test019_1.jpg,test019_1,AD7HS,1.0
+test019_2.jpg,test019_2,B 1959 WYK,1.0
+test020_1.jpg,test020_1,AG 8634 EK,1.0
+test020_2.jpg,test020_2,AD1328PY,0.8889
+test021_1.jpg,test021_1,BA 1709 DW,0.8889
+test021_2.jpg,test021_2,W 1236 VZ,1.0
+test022_1.jpg,test022_1,W 1825 OZ,0.8889
+test022_2.jpg,test022_2,L-1202 JE,0.7778
+test022_3.jpg,test022_3,L382310,0.8889
+test023_1.jpg,test023_1,B 1730 JL0,0.8889
+test024_1.jpg,test024_1,B 2964 TRU,1.0
+test025_1.jpg,test025_1,S5585LP,0.7778
+test025_2.jpg,test025_2,L 2858 RR,1.0
+test025_3.jpg,test025_3,W 1185 Z0,0.8889
+test025_4.jpg,test025_4,9840 VU,0.8889
+test026_1.jpg,test026_1,N9652DF,0.8889
+test026_2.jpg,test026_2,L3836ZX,0.8889
+test027_1.jpg,test027_1,N 1905 IG,0.8889
+test027_2.jpg,test027_2,B 1109 CLR,0.8889
+test027_3.jpg,test027_3,L 1840 AA,0.8889
+test028_1.jpg,test028_1,1438 E0,0.8889
+test028_2.jpg,test028_2,L 1436 AAA,1.0
+test029_1.jpg,test029_1,W1516MR,1.0
+test029_2.jpg,test029_2,G 1986 N,1.0
+test029_3.jpg,test029_3,L 1588 00,1.0
+test029_4.jpg,test029_4,L 1436 AAA,1.0
+test030_1.jpg,test030_1,S8062NF,0.7778
+test030_2.jpg,test030_2,G 1894 TE,1.0
+test031_1.jpg,test031_1,L 1560 JQ,0.8889
+test031_2.jpg,test031_2,L 1568 QQ,1.0
+test031_3.jpg,test031_3,,1.0
+test032_1.jpg,test032_1,B 2754 SKY,1.0
+test032_2.jpg,test032_2,W 1192 K,0.8889
+test033_1.jpg,test033_1,L 4561 VK,1.0
+test033_2.jpg,test033_2,L2693CA,0.8889
+test033_3.jpg,test033_3,W 9847 G,1.0
+test033_4.jpg,test033_4,1762 ABJ,1.0
+test034_1.jpg,test034_1,L 1811 SU,1.0
+test034_2.jpg,test034_2,M 1167 VB,1.0
+test034_3.jpg,test034_3,S61310CF,0.8889
+test034_4.jpg,test034_4,L 2570 AAD,0.8889
+test035_1.jpg,test035_1,L 9643 NN,0.8889
+test035_2.jpg,test035_2,45247 CI 12-25,1.2222
+test035_3.jpg,test035_3,L 2498 AAM,1.0
+test035_4.jpg,test035_4,W 1696 YO,1.0
+test036_1.jpg,test036_1,B1231JJA0226,1.3333
+test036_2.jpg,test036_2,B1618UAE,1.0
+test037_1.jpg,test037_1,L 1775 V0,1.0
+test037_2.jpg,test037_2,L300RX,0.8889
+test037_3.jpg,test037_3,L 1879 VG,1.0
+test038_1.jpg,test038_1,D 1523 YCN,0.8889
+test038_2.jpg,test038_2,L 1877 ACU,1.0
+test039_1.jpg,test039_1,L 1069 VK,0.7778
+test040_1.jpg,test040_1,S 1595 LL,0.8889
+test041_1.jpg,test041_1,B 1231 JJA,1.0
+test042_1.jpg,test042_1,AD 1174 SF,0.8889
+test043_1.jpg,test043_1,W 1898 YW,1.0
+test043_2.jpg,test043_2,W 1470 PG,0.8889
+test044_1.jpg,test044_1,L 1930 KF,0.8889
+test044_2.jpg,test044_2,N 1004 HE,0.7778
+test045_1.jpg,test045_1,S1347LJ,0.7778
+test046_1.jpg,test046_1,L 1470 ABK,0.8889
+test046_2.jpg,test046_2,L 1265 MX,1.0
+test047_1.jpg,test047_1,N 1524 SY,0.8889
+test047_2.jpg,test047_2,L 1678 ACE,1.0
+test048_1.jpg,test048_1,L 9316 BC,1.0
+test048_2.jpg,test048_2,W 1838 AY,0.8889
+test049_1.jpg,test049_1,N 1376 DE,1.0
+test049_2.jpg,test049_2,N79AP,0.8889
+test050_1.jpg,test050_1,L 1265 OF,0.8889
+test050_2.jpg,test050_2,N 1095 G,0.8889
+test051_1.jpg,test051_1,N 1718 HC,1.0
+test052_1.jpg,test052_1,N 6297 KS,1.0
+test052_2.jpg,test052_2,N5235ABX,0.8889
+test052_3.jpg,test052_3,N4980KJ,0.8889
+test053_1.jpg,test053_1,N 1365 AA9,0.8889
+test054_1.jpg,test054_1,N 1077 AAK,1.0
+test054_2.jpg,test054_2,N 1084 AA0,0.8889
+test055_1.jpg,test055_1,N 1610 KS,0.8889
+test056_1.jpg,test056_1,N 924 CIA,1.0
+test056_2.jpg,test056_2,N 1623 HB,1.0
+test056_3.jpg,test056_3,L 1430 HF,0.8889
+test057_1.jpg,test057_1,N 1342 T,1.0
+test057_2.jpg,test057_2,H 4145 AB,0.8889
+test057_3.jpg,test057_3,N 1396 AAH,1.0
+test058_1.jpg,test058_1,N3153ACB,1.0
+test058_2.jpg,test058_2,晋5829KJ,1.0
+test058_3.jpg,test058_3,N 1780 JL,0.8889
+test059_1.jpg,test059_1,W 8774 PA,1.0
+test059_2.jpg,test059_2,B-9162 FXU,1.0
+test060_1.jpg,test060_1,L 1846 JE,0.8889
+test060_2.jpg,test060_2,M 1457 ITA,1.0
+test061_1.jpg,test061_1,AA 1971 KJ,0.8889
+test061_2.jpg,test061_2,BD 1146 DH,0.8889
+test062_1.jpg,test062_1,B 965 PEU,1.0
+test062_2.jpg,test062_2,AE7244S,0.8889
+test063_1.jpg,test063_1,S 1208 BI,0.8889
+test064_1.jpg,test064_1,AE 8137 G,0.8889
+test065_1.jpg,test065_1,H 1706 SW,0.7778
+test066_1.jpg,test066_1,1220 HS 63-27,1.1111
+test066_2.jpg,test066_2,H 1790 ZY,0.8889
+test067_1.jpg,test067_1,L 1855 BR,1.0
+test067_2.jpg,test067_2,AB1274EV,1.0
+test068_1.jpg,test068_1,B 2310 UZS,0.8889
+test068_2.jpg,test068_2,G 1264 CM,0.8889
+test069_1.jpg,test069_1,AA 1138 AK,1.0
+test070_1.jpg,test070_1,B 2160 TOB,0.8889
+test070_2.jpg,test070_2,B 2597 BYK,0.8889
+test071_1.jpg,test071_1,G 9545 AG,1.0
+test072_1.jpg,test072_1,BG 1870 IB,0.8889
+test073_1.jpg,test073_1,T 1187 HB,0.7778
+test073_2.jpg,test073_2,A 1330 FP,0.8889
+test074_1.jpg,test074_1,G 1368 GE,1.0
+test074_2.jpg,test074_2,B 1081 CMR,1.0
+test075_1.jpg,test075_1,G 2474 XZ,0.8889
+test075_2.jpg,test075_2,G 9173 BP,0.8889
+test075_3.jpg,test075_3,7100 2325,0.8889
+test076_1.jpg,test076_1,G 2151 ASF,1.0
+test076_2.jpg,test076_2,E 500 MA,0.7778
+test076_3.jpg,test076_3,G 4689 SN,1.0
+test077_1.jpg,test077_1,G 1754 QZ,1.0
+test078_1.jpg,test078_1,H 1413 DH,1.0
+test079_1.jpg,test079_1,T 1688 GY,0.8889
+test079_2.jpg,test079_2,A 126G AJ,1.0
+test080_1.jpg,test080_1,D 77 HSB,1.0
+test080_2.jpg,test080_2,B 1861 Y01,0.8889
+test080_3.jpg,test080_3,D 1160 ADE,0.8889
+test081_1.jpg,test081_1,F 8097 BD,0.8889
+test081_2.jpg,test081_2,F 1992 AH,1.0
+test082_1.jpg,test082_1,E 1824 YZ,0.7778
+test082_2.jpg,test082_2,B 9093 JEX,1.0
+test083_1.jpg,test083_1,F 5052 AAE,1.0
+test083_2.jpg,test083_2,F 5452 CO,1.0
+test084_1.jpg,test084_1,B 1158 PYP,0.8889
+test084_2.jpg,test084_2,B 1242 VOY,1.0
+test085_1.jpg,test085_1,B 1315 KIF,1.0
+test085_2.jpg,test085_2,B 2938 FVJ,0.8889
+test085_3.jpg,test085_3,B 2560 SKZ,0.8889
+test086_1.jpg,test086_1,B 1291 N0J,1.0
+test086_2.jpg,test086_2,B 1556 NRC,1.0
+test087_1.jpg,test087_1,B 6823 WXR,1.0
+test087_2.jpg,test087_2,B 6317 NXK,1.0
+test087_3.jpg,test087_3,F 2215 FCO,1.0
+test087_4.jpg,test087_4,4039 NHR 07-24,1.1111
+test088_1.jpg,test088_1,B 2190 TYB,0.8889
+test088_2.jpg,test088_2,B 1902 VKA,0.8889
+test089_1.jpg,test089_1,D8609N,0.7778
+test089_2.jpg,test089_2,A 8406 ZE G828,1.1111
+test089_3.jpg,test089_3,B 1246 KRK,1.0
+test090_1.jpg,test090_1,T 9314 E,0.8889
+test090_2.jpg,test090_2,N 0579 U,0.8889
+test091_1.jpg,test091_1,B 2910 KZW,0.8889
+test091_2.jpg,test091_2,B 9721 KXV,1.0
+test092_1.jpg,test092_1,B 1104 AAA,0.8889
+test092_2.jpg,test092_2,T 1579 FN,0.7778
+test092_3.jpg,test092_3,B 2346 POC,1.0
+test093_1.jpg,test093_1,B 2026 BIU,1.0
+test094_1.jpg,test094_1,G1255EJ,1.0
+test095_1.jpg,test095_1,B 1201 KAD,0.8889
+test095_2.jpg,test095_2,B 2310 JUK,0.8889
+test095_3.jpg,test095_3,B28YHH,1.0
+test096_1.jpg,test096_1,B 1354 COJ,1.0
+test096_2.jpg,test096_2,B 1502 NRO GL-28,1.3333
+test097_1.jpg,test097_1,B 1650 N0G,0.8889
+test097_2.jpg,test097_2,B 6354 SVL,1.0
+test098_1.jpg,test098_1,B 1779 DOB G6-28,1.4444
+test099_1.jpg,test099_1,B 2017 PBQ,1.0
+test099_2.jpg,test099_2,B 1892 WZT,1.0
+test100_1.jpg,test100_1,B 1071 PRG,0.8889
+test100_2.jpg,test100_2,B 2134 PZJ,1.0
